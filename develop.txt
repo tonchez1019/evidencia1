@@ -1,0 +1,7 @@
+-Se incio el git
+-se agrego la rama main
+-se agrego archivo readme.txt
+-se agrego archivo .gitignore
+-se agrego archivo Readme.md
+-Se cambio archivo Readme.md
+-se abrio una nueva rama
